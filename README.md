@@ -4,8 +4,16 @@
 
 ## 📈Statistics
 
-[![JamesBrosy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesBrosy)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<span>&emsp;&emsp;</span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=JamesBrosy" /><span>&emsp;&emsp;</span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesBrosy&layout=compact&langs_count=8" />
+<span>&emsp;&emsp;</span>
+</div>
 
+<div algn="center">
+<img src="https://streak-stats.demolab.com?user=JamesBrosy&theme=tokyonight" />
+</div>
 <!--
 **JamesBrosy/JamesBrosy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
