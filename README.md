@@ -4,14 +4,18 @@
 
 
 ## 😀About me
-- 
+
+- 🤔I am just a college student from China, who always roll in Yifu Building for the whole day.
+- 🤔I am obsessed with computer science, although I am not major in computer science.
+- 🤪As you can see, I have no bad habits except typing codes.
+- 😁I believe that the future will be even better.
 
 ## 📈Statistics
 
 <div align="center">
 <span>&emsp;&emsp;</span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=JamesBrosy" /><span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesBrosy&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesBrosy&layout=compact" />
 <span>&emsp;&emsp;</span>
 </div>
 
@@ -19,7 +23,8 @@
 <img src="https://streak-stats.demolab.com?user=JamesBrosy&theme=tokyonight" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JamesBrosy&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![JamesBrosy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JamesBrosy&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!--
 **JamesBrosy/JamesBrosy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
