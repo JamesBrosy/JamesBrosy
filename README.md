@@ -11,7 +11,7 @@
 <span>&emsp;&emsp;</span>
 </div>
 
-<div algn="center">
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=JamesBrosy&theme=tokyonight" />
 </div>
 <!--
