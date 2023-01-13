@@ -2,6 +2,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&lines=%E8%BF%BD%E5%85%89%E8%80%85;The+Light+Chaser" alt="Typing SVG" /></a>
 </p>
 
+## 📈Statistics
+
+[![JamesBrosy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesBrosy)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JamesBrosy/JamesBrosy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
