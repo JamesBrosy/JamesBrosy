@@ -1,10 +1,11 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&lines=%E8%BF%BD%E5%85%89%E8%80%85;The+Light+Chaser" alt="Typing SVG" /></a>
 </p>
-
+<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 ## 😀About me
-
+<img src="cat.gif" width="200"/>
 
 - 🤔I am just a college student from China, who always roll in Yifu Building for the whole day.
 - 🤔I am obsessed with computer science, although I am not major in computer science.
