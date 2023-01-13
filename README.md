@@ -1,7 +1,11 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&lines=%E8%BF%BD%E5%85%89%E8%80%85;The+Light+Chaser" alt="Typing SVG" /></a>
 </p>
+<p align="center">
+<img src="https://img.shields.io/badge/-liusy1521@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:liusy1521@gmail.com" />
+</p>
 
+---
 ## 📈Statistics
 
 <div align="center">
