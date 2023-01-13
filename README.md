@@ -21,11 +21,9 @@
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=JamesBrosy&theme=tokyonight" />
+<br/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=JamesBrosy&theme=minimal" />
 </div>
-
-[![JamesBrosy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JamesBrosy&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-> 
 
 <!--
 **JamesBrosy/JamesBrosy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
