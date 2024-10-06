@@ -3,12 +3,7 @@
 </p>
 
 
-## 😀<em>About me<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>
-
-- 🤔I am just a college student from China, who always roll in Yifu Building for the whole day.
-- 🤔I am obsessed with computer science, although I am not major in computer science.
-- 🤪As you can see, I have no bad habits except typing codes.
-- 😁I believe that the future will be even better.
+## 😀<em>Hi, here!👋<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>
 
 ## 📈Statistics
 
