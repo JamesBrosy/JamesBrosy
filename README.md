@@ -16,8 +16,6 @@
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=JamesBrosy&theme=tokyonight" />
-<br/>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=JamesBrosy&theme=minimal" />
 </div>
 
 <!--
