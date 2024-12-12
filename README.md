@@ -14,10 +14,6 @@
 <span>&emsp;&emsp;</span>
 </div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=JamesBrosy&theme=tokyonight" />
-</div>
-
 <!--
 **JamesBrosy/JamesBrosy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
